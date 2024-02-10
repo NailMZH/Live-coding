@@ -6,7 +6,7 @@ public class Test {
         s = "Hello World!";
         a = 10;
 
-        for(int i =0; i < 4; i++) {
+        for(int i =0; i < 5; i++) {
 
             System.out.println(s);
             System.out.println(a);
